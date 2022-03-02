@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash echo "The School is open!"
 The school is open!
+=======
+#!/bin/bash echo "School"
+>>>>>>> parent of d4a553a... Conflict resolve
+The School is open!
